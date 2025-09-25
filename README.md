@@ -3,7 +3,7 @@
 A web-based application for detecting human faces and smiles in real-time images.
 Built with Flask for the backend, HTML/CSS for the frontend, and Google Generative AI (Gemini) for advanced image analysis.
 
-**✨ Features :-**
+## **✨ Features :-**
 
 📷 Upload an image or capture from webcam
 
@@ -15,7 +15,7 @@ Built with Flask for the backend, HTML/CSS for the frontend, and Google Generati
 
 🔗 Uses Google Generative AI (google.generativeai) for detection & recognition
 
-**🛠️ Tech Stack :-**
+## **🛠️ Tech Stack :-**
 
 Backend: Flask (Python)
 
