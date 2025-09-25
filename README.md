@@ -5,22 +5,22 @@ Built with Flask for the backend, HTML/CSS for the frontend, and Google Generati
 
 ## **✨ Features :-**
 
-📷 Upload an image or capture from webcam
+* 📷 Upload an image or capture from webcam
 
-👤 Detect human faces in the image
+* 👤 Detect human faces in the image
 
-😀 Recognize smiles and classify expressions
+* 😀 Recognize smiles and classify expressions
 
-⚡ Fast and lightweight web interface (HTML/CSS + Bootstrap)
+* ⚡ Fast and lightweight web interface (HTML/CSS + Bootstrap)
 
-🔗 Uses Google Generative AI (google.generativeai) for detection & recognition
+* 🔗 Uses Google Generative AI (google.generativeai) for detection & recognition
 
 ## **🛠️ Tech Stack :-**
 
-Backend: Flask (Python)
+* Backend: Flask (Python)
 
-Frontend: HTML, CSS 
+* Frontend: HTML, CSS 
 
-AI Model: Google Generative AI (google.generativeai)
+* AI Model: Google Generative AI (google.generativeai)
 
-Other Tools: OpenCV (optional for local preprocessing)
+* Other Tools: OpenCV (optional for local preprocessing)
