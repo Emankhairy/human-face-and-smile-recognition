@@ -15,7 +15,7 @@ Built with Flask for the backend, HTML/CSS for the frontend, and Google Generati
 
 🔗 Uses Google Generative AI (google.generativeai) for detection & recognition
 
-🛠️ Tech Stack :-
+**🛠️ Tech Stack :-**
 
 Backend: Flask (Python)
 
